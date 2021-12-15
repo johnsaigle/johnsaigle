@@ -1,6 +1,6 @@
 # John Saigle
 
-Offensive Security • AppSec • Really into Perl, don't know why 🐪
+Offensive Security • AppSec • Bug bounty
 
 ---
 
