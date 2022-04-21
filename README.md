@@ -11,7 +11,7 @@ Offensive Security • AppSec • Bug bounty
 </a>
 
 <a href="https://github.com/johnsaigle/johnsaigle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsaigle&show_icons=true&theme=merko&langs_count=3&layout=default&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsaigle&show_icons=true&theme=merko&langs_count=8&layout=default&hide_border=false" />
 </a>
 
 </p>
